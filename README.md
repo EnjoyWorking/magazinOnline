@@ -1,5 +1,5 @@
 ﻿# magazinOnline 
--TYPE IN CONSOLE BEFORE RUN
+-TYPE IN CONSOLE BEFORE RUNNING
 npm install
 npm install --save express ejs body-parser express-session mongodb mongoose connect-mongodb-session bcryptjs
 
