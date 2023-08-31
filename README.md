@@ -1,6 +1,6 @@
 # magazinOnline 
 -TYPE IN CONSOLE BEFORE RUNNING
--PRESS ENTER WHEN ASKS DATA IN CONSOLE
+-PRESS ENTER IF ASKS DATA IN CONSOLE
 npm install
 npm init
 npm install --save express ejs body-parser express-session mongodb mongoose connect-mongodb-session bcryptjs
